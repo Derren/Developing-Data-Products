@@ -1,6 +1,6 @@
 ---
 title: "Analysis of the mtcars dataset"
-author: "Ludovic (A Data Science Student)"
+author: "Derren"
 highlighter: highlight.js
 output:
   html_document:
